@@ -53,7 +53,7 @@ python gender_snowfall.py
 ---
 
 ## **Dataset Used**
-The project reads **gender-based population data** from `genders.csv`.
+The project reads **gender-based population data** from `genders.csv` - actually it is the dataset about the person  first name, their gender and the count based on the individual who took the Medical entrance exam in Nepal .
 
 
 Heres the link : https://github.com/amitness/gender-data/blob/master/genders.csv 
